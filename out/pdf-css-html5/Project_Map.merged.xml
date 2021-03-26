@@ -87,7 +87,7 @@
         <p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/DITA/UczelniaInstrukcjaProjectOxygen/Images/LOGO%20Akademii%20Pedagogiki%20Specjalnej.jpg" id="unique_1_Connect_42_image_c3b_rwx_bpb" nd:nd-id="image_c3b_rwx_bpb" placement="inline"/></p>
     </body>
 </topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><b class="+ topic/ph hi-d/b ">PROCEDURA REJESTRACJI NA STUDIA W SYSTEMIE IRK</b></ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">PROCEDURA REJESTRACJI NA STUDIA W SYSTEMIE IRK</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder "/>
         </copyright><critdates class="- topic/critdates ">
@@ -96,7 +96,7 @@
     <body class="- topic/body ">
         <p class="- topic/p "/>
         <section class="- topic/section " id="unique_2_Connect_42_section_khm_dsx_bpb" nd:nd-id="section_khm_dsx_bpb">
-            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Start!</b></title>
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Start</b></title>
             <p class="- topic/p ">Adres systemu IRK: <xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/" scope="external"><?ditaot usertext?>https://rekrutacja.aps.edu.pl/</xref></p>
             <p class="- topic/p ">Prosimy wybrać baner „studia I i II stopnia oraz jednolite studia magisterskie”.</p>
             <p class="- topic/p ">Kliknięcie przenosi na stronę: <xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/home/" scope="external"><?ditaot usertext?>https://rekrutacja.aps.edu.pl/pl/home/</xref> ,
