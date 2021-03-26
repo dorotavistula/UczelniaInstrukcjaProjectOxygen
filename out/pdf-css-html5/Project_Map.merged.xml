@@ -58,7 +58,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-03-25"/>
         </critdates></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">ADRES UCZELNI</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder "/>
         </copyright><critdates class="- topic/critdates ">
@@ -249,13 +249,14 @@
                 komunikaty w systemie IRK.</b></p>
     </body>
 </topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">ADRES UCZELNI</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder "/>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-03-25"/>
         </critdates></prolog>
     <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej</b></p>
         <p class="- topic/p ">Ul. Szczęśliwicka 40</p>
         <p class="- topic/p ">02-353 Warszawa</p>
         <p class="- topic/p "> tel: +48 22 589 36 00</p>
