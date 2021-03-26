@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Untitled">
+    <title><b>PROCEDURA REJESTRACJI NA STUDIA W SYSTEMIE IRK</b></title>
+    <body>
+        <p/>
+        <section id="section_khm_dsx_bpb">
+            <title><b>Start!</b></title>
+            <p>Adres systemu IRK: <xref href="https://rekrutacja.aps.edu.pl/" format="html"
+                    scope="external">https://rekrutacja.aps.edu.pl/</xref></p>
+            <p>Prosimy wybrać baner „studia I i II stopnia oraz jednolite studia magisterskie”.</p>
+            <p>Kliknięcie przenosi na stronę: <xref href="https://rekrutacja.aps.edu.pl/home/"
+                    format="html" scope="external">https://rekrutacja.aps.edu.pl/pl/home/</xref> ,
+                gdzie należy kliknąć w prawym górnym rogu "UTWÓRZ KONTO" i dalej postępować zgodnie
+                z instrukcjami (link aktywacyjny konto w systemie IRK będzie wysłany na podany przez
+                kandydata adres email).</p>
+            <p>Po utworzeniu konta należy się zalogować do systemu IRK, a następnie wybrać ścieżkę
+                "MOJE KONTO" -> "FORMULARZ OSOBOWE".</p>
+        </section>
+    </body>
+</topic>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Project Map</title>
+    <topicmeta>
+        <author>DOROTA CAKAR</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder/>
+        </copyright>
+        <critdates>
+            <created date="2021-03-25"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="Topics/r_logo_akademii_pedagogiki_specjalnej.dita"/>
+    <topicref href="Topics/t_Procedura_Rejestracji.dita"/>
+    <topicref href="Topics/t_Formularze_osobowe.dita"/>
+    <topicref href="Topics/c_Wyb%C3%B3r_kierunku_studi%C3%B3w.dita"/>
+    <topicref href="Topics/t_Wype%C5%82nienie_zg%C5%82oszenia.dita"/>
+    <topicref href="Topics/t_Op%C5%82ata_rekrutacyjna.dita"/>
+    <topicref href="Topics/C_Wynik_rejestracji.dita"/>
+    <topicref href="Topics/c_Adres_uczelni.dita"/>
+    <topicref href="Topics/c_Adres%20Systemu_Obs%C5%82ugi_Studi%C3%B3w.dita"/>
+    <topicref href="Topics/c_Potrzebne_linki.dita"/>
+</map>
+<?oxy_options track_changes="on"?>

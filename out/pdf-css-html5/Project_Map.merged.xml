@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/GIT/DITA/UczelniaInstrukcjaProjectOxygen/Project_Map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">DOROTA CAKAR</author>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">Project Map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Project Map</title>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="logo_akademii_pedagogiki_specjalnej"><resourceid appid="logo_akademii_pedagogiki_specjalnej" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Logo Akademii Pedagogiki Specjalnej</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">PROCEDURA REJESTRACJI NA STUDIA W SYSTEMIE IRK</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">FORMULARZE OSOBOWE</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">WYBÓR KIERUNKU STUDIÓW</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">WYPEŁNIENIE ZGŁOSZENIA</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">OPŁATA REKRUTACYJNA</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">WYNIK REJESTRACJI</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">ADRES DO SYSTEMU IKR</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="potrzebne_linki"><resourceid appid="potrzebne_linki" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Potrzebne linki</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></topicmeta></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="logo_akademii_pedagogiki_specjalnej" oid="logo_akademii_pedagogiki_specjalnej" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Logo Akademii Pedagogiki Specjalnej</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/DITA/UczelniaInstrukcjaProjectOxygen/Images/LOGO%20Akademii%20Pedagogiki%20Specjalnej.jpg" id="unique_1_Connect_42_image_c3b_rwx_bpb" nd:nd-id="image_c3b_rwx_bpb" placement="inline"/></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><b class="+ topic/ph hi-d/b ">PROCEDURA REJESTRACJI NA STUDIA W SYSTEMIE IRK</b></ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <section class="- topic/section " id="unique_2_Connect_42_section_khm_dsx_bpb" nd:nd-id="section_khm_dsx_bpb">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Start!</b></title>
+            <p class="- topic/p ">Adres systemu IRK: <xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/" scope="external"><?ditaot usertext?>https://rekrutacja.aps.edu.pl/</xref></p>
+            <p class="- topic/p ">Prosimy wybrać baner „studia I i II stopnia oraz jednolite studia magisterskie”.</p>
+            <p class="- topic/p ">Kliknięcie przenosi na stronę: <xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/home/" scope="external"><?ditaot usertext?>https://rekrutacja.aps.edu.pl/pl/home/</xref> ,
+                gdzie należy kliknąć w prawym górnym rogu "UTWÓRZ KONTO" i dalej postępować zgodnie
+                z instrukcjami (link aktywacyjny konto w systemie IRK będzie wysłany na podany przez
+                kandydata adres email).</p>
+            <p class="- topic/p ">Po utworzeniu konta należy się zalogować do systemu IRK, a następnie wybrać ścieżkę
+                "MOJE KONTO" -&gt; "FORMULARZ OSOBOWE".</p>
+        </section>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">FORMULARZE OSOBOWE</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prosimy o wypełnienie wszystkich wymaganych pól (oznaczonych gwiazdką) w formularzach
+                "PODSTAWOWE DANE OSOBOWE", "ADRES I DANE KONTAKTOWE", "WYKSZTAŁCENIE" oraz
+                "DODATKOWE DANE OSOBOWE"!!!</b></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">UWAGA:</b> Formularz "ZDJĘCIE" będzie niezbędny do ukończenia procesu rekrutacji na
+            studia, np. aby w przypadku zakwalifikowania na studia wydrukować podanie o przyjęcie na
+            studia i podanie o wydanie Elektronicznej Legitymacji Studenckiej - ELS, czy aby wgrać
+            do systemu zdjęcie do ELS. Docelowo więc trzeba będzie wypełnić również ten formularz
+            (na obecnym etapie zapisów na kierunek nie jest to konieczne).</p>
+        <p class="- topic/p ">W formularzu "WYKSZTAŁCENIE" -&gt; „WYKSZTAŁCENIE ŚREDNIE” należy wypełnić dane dotyczące
+            ukończonej szkoły średniej: rodzaj szkoły, nazwę szkoły oraz miejscowość.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Przy zapisie na studia pierwszego stopnia i jednolite studia magisterskie</b></p>
+        <p class="- topic/p ">W dziale „WYKSZTAŁCENIE ŚREDNIE”, trzeba kliknąć na "+ZAPISZ i DODAJ DOKUMENT", a
+            następnie podać dane dotyczące posiadanego świadectwa dojrzałości i zapisać formularz
+            klikając przycisk „ZAPISZ” - <b class="+ topic/ph hi-d/b ">w przypadku tegorocznych maturzystów wystarczy tylko
+                wskazać jego rodzaj (nowa matura) i rok uzyskania (2020)</b> - pozostałe dane można
+            będzie uzupełnić po otrzymaniu świadectwa, niemniej musi być to uzupełnione przed końcem
+            zapisów w danej turze rekrutacji.</p>
+        <p class="- topic/p ">Po powrocie do formularza "WYKSZTAŁCENIE" należy kliknąć na opcję: <b class="+ topic/ph hi-d/b ">"EDYTUJ WYNIKI
+                EGZAMINÓW"</b> przy dodanym świadectwie dojrzałości, a następnie zaznaczyć, które
+            przedmioty były zdawane na maturze (opcja "CZY ZDAWANY") i wpisać uzyskane wyniki i
+            zapisać formularz klikając przycisk „ZAPISZ” (w przypadku tegorocznej matury wystarczy
+            tylko zaznaczyć zdawane przedmioty, zaś wyniki należy wpisać po ich uzyskaniu, czyli w
+            dniu 11 sierpnia - możliwość wpisania wyników z matury będzie dostępna do końca trwania
+            tury zapisów).</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Przy zapisie na studia drugiego stopnia</b></p>
+        <p class="- topic/p ">W dziale "WYKSZTAŁCENIE WYŻSZE" osoby będące absolwentami lub studentami APS wpisują swój
+            nr indeksu. Wszystkie inne osoby pomijają ten krok.</p>
+        <p class="- topic/p ">Następnie należy dodać dyplom licencjata (lub równoważny) mający być podstawą przyjęcia
+            na studia (trzeba kliknąć na "+ZAPISZ i DODAJ DOKUMENT"). Po wpisaniu niezbędnych danych
+            dotyczących dyplomu i zapisaniu (przycisk „ZAPISZ”) formularza należy kliknąć na "EDYTUJ
+            WYNIKI EGZAMINÓW" dyplomu licencjackiego, gdzie należy zaznaczyć obydwa kryteria
+            rangowania kandydatów, czyli "OCENA Z DYPLOMU – OSTATECZNY WYNIK ZE STUDIÓW
+            LICENCJACKICH" oraz "ŚREDNIA OCEN UZYSKANYCH W TOKU STUDIÓW I STOPNIA", a następnie
+            wpisać uzyskane wyniki i zapisać formularz klikając przycisk „ZAPISZ”.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">UWAGA:</b>
+            <b class="+ topic/ph hi-d/b ">Nie można rekrutować się na studia drugiego stopnia nie będąc, co najmniej, po
+                obronie oraz należy dysponować zaświadczeniem wydanym przez uczelnię, w której
+                odbywało się studia pierwszego stopnia. Zaświadczenie powinno zawierać ww.
+                informacje. Należy te informacje wpisać do systemu przed zakończeniem danej tury
+                zapisów na studia drugiego stopnia.</b></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">WYBÓR KIERUNKU STUDIÓW</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <section class="- topic/section " id="unique_4_Connect_42_section_zgz_5tx_bpb" nd:nd-id="section_zgz_5tx_bpb">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Wybór kierunku studiów -&gt; dział "OFERTA" w menu na górze strony na niebieskim
+                    pasku</b></title>
+            <p class="- topic/p ">W opisie każdego kierunku będzie klawisz "ZAPISZ SIĘ", po jego kliknięciu należy
+                postępować zgodnie z instrukcjami, czyli wybrać lub potwierdzić dokument
+                uprawniający do podjęcia studiów, a następnie kliknąć przycisk "KONTYNUUJ". W wyniku
+                tej czynności powinien pojawić się ponownie opis kierunku z informacją, że jest się
+                zapisanym na ten kierunek (czyli "POMYŚLNIE UTWORZONO ZGŁOSZENIE REKRUTACYJNE").</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">W przypadku zapisu na studia pierwszego stopnia na kierunek EDUKACJA ARTYSTYCZNA W
+                    ZAKRESIE SZTUK PLASTYCZNYCH</b> po klinięciu na przycisk "KONTYNUUJ" następuje
+                przeniesienie do kolejnego kroku - zapisania się na egzamin autoprezentacja - należy
+                zaznaczyć odpowiednia flagę a następnie kliknąć na przycisk "KONTYNUUJ". Następnym
+                krokiem wgranie materiałów i wypełnienie danych stanowiacych podstawę
+                autoprezentacji. Po wgraniu reprodukcji prac i udzieleniu odpowiedzni na pytania
+                umieszczone w dalszej części ankiety, należy kliknąć na przycisk "KONTYNUUJ". Po
+                wykonaniu ww. czynności powinien pojawić się ponownie opis kierunku z informacją, że
+                jest się zapisanym na ten kierunek (czyli "POMYŚLNIE UTWORZONO ZGŁOSZENIE
+                REKRUTACYJNE"). UWAGA - materiały stanowiące podstawię autoprezentacji można
+                edytować do czasu zakończenia zapisów na ten kierunek studiów w systemie IRK.
+                Ścieżka dostępu: "MOJE KONTO" -&gt; "ZGŁOSZENIA REKRUTACYJNE" - ankieta zawierająca
+                materiały stanowiące podstawę autoprezentacji znajduje się w części "DODATKOWE
+                INFORMACJE".</p>
+            <p class="- topic/p "> </p>
+        </section>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">WYPEŁNIENIE ZGŁOSZENIA</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <section class="- topic/section " id="unique_5_Connect_42_section_nxz_h5x_bpb" nd:nd-id="section_nxz_h5x_bpb">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Uzupełnienie zgłoszenia rekrutacyjnego – wypełnienie ankiet i
+                deklaracji</b></title>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Prosimy o wybranie opcji "PRZEJDŹ DO MOICH ZGŁOSZEŃ" (komunikat zielonej ramce po
+                    zapisaniu się na studia) albo wybór ścieżki "MOJE KONTO" -&gt; "ZGŁOSZENIA
+                    REKRUTACYJNE" - ankiety przypisane do danego kieruku znajdują się w części
+                    "DODATKOWE INFORMACJE".</b></p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">UWAGA: Ten punkt jest szczególnie istotny w przypadku rekrutacji na studia
+                    drugiego stopnia</b>, <b class="+ topic/ph hi-d/b ">gdyż znajdują się tam również oświadczenia/ankiety
+                    stanowiące potwierdzenie przez kandydata posiadania wymaganych w rekrutacji na
+                    dane kierunki studiów drugiego stopnia uprawnień</b> (np. przygotowania
+                pedagogicznego), bądź też potwierdzenia ukończenia danego kierunku studiów
+                pierwszego stopnia. Deklaracje dotyczące uprawnień są zamieszczone tylko przy tych
+                kierunkach studiów drugiego stopnia, które wymagają tego typu deklaracji (np.
+                logopedia, terapia pedagogiczna, itd.). <b class="+ topic/ph hi-d/b ">Brak wypełnienia ankiety potwierdzającej
+                    posiadanie określonych uprawnień (np. przygotowania pedagogicznego) lub
+                    stanowiącej potwierdzenie ukończenia danego kierunku studiów/specjalności
+                    skutkuje wynikiem 0 punktów rekrutacyjnych i tym samym brakiem kwalifikacji na
+                    wybrany kierunek studiów!</b></p>
+            <p class="- topic/p ">Dla wszystkich kierunków studiów jest zaś dostępna ogólna ankieta dla kandydatów
+                (pytamy m.in. skąd dowiedzieli się Państwo o naszej uczelni).</p>
+            <p class="- topic/p "> </p>
+        </section>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">OPŁATA REKRUTACYJNA</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">W dziale płatności jest zamieszczona informacja o wysokości naliczonej opłaty
+            rekrutacyjnej (chodzi o łączną sumę do zapłaty obliczonej na podstawie ilości zapisów w
+            systemie w danym momencie) oraz indywidualne dla każdego kandydata dane do przelewu.</p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">WYNIK REJESTRACJI</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Dalsze kroki postępowania rekrutacyjnego, czyli sprawdzenie swojej pozycji na liście
+                rankingowej, sprawdzenie stanu kwalifikacji na studia, składanie dokumentów w
+                Komisji Rekrutacyjnej wyznaczane są przez harmonogram rekrutacji oraz stosowne
+                komunikaty w systemie IRK.</b></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Ul. Szczęśliwicka 40</p>
+        <p class="- topic/p ">02-353 Warszawa</p>
+        <p class="- topic/p "> tel: +48 22 589 36 00</p>
+        <p class="- topic/p "> www: <xref class="- topic/xref " format="html" href="http://www.aps.edu.pl/" scope="external"><?ditaot usertext?>http://www.aps.edu.pl</xref></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">ADRES DO SYSTEMU IKR</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Uniwersytecki System Obsługi StudiówInternetowa Rekrutacja Kandydatów</b></p>
+        <p class="- topic/p ">IRK 1.9.3 (09572695-dirty) :: 2020-01-20</p>
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/sitemap/" scope="external"><?ditaot usertext?>mapa strony</xref></p>
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/sitemap/" scope="external"/><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/contact/" scope="external"><?ditaot usertext?>kontakt</xref></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="potrzebne_linki" oid="potrzebne_linki" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Potrzebne linki</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-25"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/news/3/" scope="external"/></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Rekrutacja na studia I i II stopnia </b></p>
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/offer/RSW2020/" scope="external"/></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Rekrutacja na studia podyplomowe</b></p>
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://rekrutacja.aps.edu.pl/pl/offer/RSP2020/" scope="external"/></p>
+        <p class="- topic/p "/>
+    </body>
+</topic></map>

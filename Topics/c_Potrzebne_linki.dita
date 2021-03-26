@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="potrzebne_linki">
+    <title>Potrzebne linki</title>
+    <body>
+        <p><xref href="https://rekrutacja.aps.edu.pl/pl/news/3/" format="html" scope="external"
+            /></p>
+        <p><b>Rekrutacja na studia I i II stopnia </b></p>
+        <p><xref href="https://rekrutacja.aps.edu.pl/pl/offer/RSW2020/" format="html"
+                scope="external"/></p>
+        <p><b>Rekrutacja na studia podyplomowe</b></p>
+        <p><xref href="https://rekrutacja.aps.edu.pl/pl/offer/RSP2020/" format="html"
+                scope="external"/></p>
+        <p/>
+    </body>
+</topic>
